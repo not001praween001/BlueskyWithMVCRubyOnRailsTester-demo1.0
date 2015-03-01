@@ -1,6 +1,6 @@
 Blue-sky With MVC model of Ruby On Rails Tester (demo1.0)
 =========================================================
-Here is the client tester of Blue-sky cloud server. You can create your app with Ruby On Rails operate with Blue-sky.
+Here is the client tester of Blue-sky cloud server. You can create your Web app with Ruby On Rails operate with Blue-sky.
 
 
 Getting started
