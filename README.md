@@ -10,7 +10,7 @@ Getting started
 ```shell
  git clone https://github.com/not001praween001/BlueskyWithMVCRubyOnRailsTester-demo1.0.git
  cd BlueskyWithMVCRubyOnRailsTester-demo1.0
- bundle install
+ bundle install --path=./vendor/bundle
 ```
 
 - Edit your EDIP
