@@ -48,6 +48,6 @@ class BlueskyController < ApplicationController
        logout_result = logout_res_hash["ETLog"]["logout"]["result"]
     end while num < 2 && logout_result == "false"
     puts "Logout result: " + logout_result
-    render :text => "We has set the value 0 to gpio pin number 22 of the local embedded device(ED) IP '#{your_local_ed_ip}' of public domain #{your_bluesky_domain}. The operation result is '#{set_result}'"
+    render :text => "We have set the value 0 to gpio pin number 22 of the local embedded device(ED) IP '#{your_local_ed_ip}' of public domain #{your_bluesky_domain}. The operation result is '#{set_result}'"
   end
 end
