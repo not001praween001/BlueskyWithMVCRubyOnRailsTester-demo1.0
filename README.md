@@ -15,7 +15,7 @@ Getting started
 
 - Edit your EDIP
 ```shell
-# See the line { your_local_ed_ip = ....} and indentified your setup embedded device IP.
+# See the line { your_local_ed_ip = ....} and identified your setup embedded device IP.
 emacs app/controllers/bluesky_controller.rb
 ```
 
