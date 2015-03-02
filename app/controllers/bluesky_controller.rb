@@ -7,7 +7,7 @@ class BlueskyController < ApplicationController
     # Here! It is the simple code show how to test with Blue-sky following aspects: #
     #   1. Login to the platfrom with POST method.                                  #
     #   2. Using private api with GET method.                                       #
-    #   3. Logout from the platfrom with POST method.                               #
+    #   3. Logout from the platform with POST method.                               #
     # @Author: Praween AMONTAMAVUT                                                  #
     #################################################################################
 
