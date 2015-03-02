@@ -3,13 +3,13 @@ require 'json'
 
 class BlueskyController < ApplicationController
   def get
-    #############################################################################
-    # Here! There are simple code show how to test with Blue-sky following:     #
-    #   1. Login to the platfrom with POST method.                              #
-    #   2. Using private api with GET method.                                   #
-    #   3. Logout from the platfrom with POST method.                           #
-    # @Author: Praween AMONTAMAVUT                                              #
-    #############################################################################
+    #################################################################################
+    # Here! It is the simple code show how to test with Blue-sky following aspects: #
+    #   1. Login to the platfrom with POST method.                                  #
+    #   2. Using private api with GET method.                                       #
+    #   3. Logout from the platfrom with POST method.                               #
+    # @Author: Praween AMONTAMAVUT                                                  #
+    #################################################################################
 
     # Identify your bluesky domain
     your_bluesky_domain = 'http://localhost:8189'
